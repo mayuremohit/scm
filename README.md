@@ -1,1 +1,1 @@
-# scm
+smart contact manager
